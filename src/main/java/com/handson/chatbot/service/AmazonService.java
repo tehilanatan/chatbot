@@ -24,7 +24,7 @@ public class AmazonService {
                 .method("GET", null)
                 .addHeader("authority", "www.amazon.com")
                 .addHeader("cache-control", "max-age=0")
-                .addHeader("rtt", "100")
+                 .addHeader("rtt", "100")
                 .addHeader("downlink", "10")
                 .addHeader("ect", "4g")
                 .addHeader("sec-ch-ua", "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"")
