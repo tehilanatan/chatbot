@@ -1,0 +1,5 @@
+/root/tehilan-chatbot/src/main/java/com/handson/chatbot/controller/BotController.java
+/root/tehilan-chatbot/src/main/java/com/handson/chatbot/service/AmazonService.java
+/root/tehilan-chatbot/src/main/java/com/handson/chatbot/config/SwaggerConfig.java
+/root/tehilan-chatbot/src/main/java/com/handson/chatbot/ChatbotApplication.java
+/root/tehilan-chatbot/src/main/java/com/handson/chatbot/service/ChucknorrisJokeService.java
