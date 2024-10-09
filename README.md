@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chatbot
 
 
@@ -301,3 +302,6 @@ commit - with bot response
 <br>
 https://www.heroku.com/
 fork if needed
+=======
+# chatbot
+>>>>>>> b0cd59fba614e024c277d22dd5ee6f9490b57ee2
